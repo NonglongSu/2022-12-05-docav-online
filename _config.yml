@@ -53,6 +53,7 @@ pilot: false
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
 title: "Data Carpentry at Genentech"
+subtitle: "Data Organization, Cleaning, Analysis and Visualization."
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
