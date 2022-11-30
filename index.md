@@ -140,7 +140,7 @@ address.
 {% elsif online == "true_public" %}
 <p id="where">
   <strong>Where:</strong>
-  online at <a href="{{page.address}}">{{page.address}}</a>.
+  online at <a href="{{[page.address](https://datacarpentry.org/ecology-workshop/setup-r-workshop.html)}}">{{page.address}}</a>.
   If you need a password or other information to access the training,
   the instructor will pass it on to you before the workshop.
 </p>
